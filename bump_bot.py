@@ -1,12 +1,5 @@
 import discord
-import asyncio
-import json
-import sys
 from datetime import datetime
-import requests
-import random
-from itertools import cycle
-from discord.ext import commands, tasks
 import time
 
 token = "NzgzMzY3MjQ4NTU5MDc5NDU0.X8bL4Q.qvsvWFWD_mzRYF2oL9aLXCM1Q3o"
